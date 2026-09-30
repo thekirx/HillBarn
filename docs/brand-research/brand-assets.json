@@ -1,0 +1,245 @@
+{
+  "project": "Hillbarn — Tagaytay, Philippines",
+  "collected": "2026-09-05",
+  "collection_method": "Public, logged-out access to Hillbarn's own Facebook and Instagram accounts. No logins, no accounts created.",
+  "license_status": "All assets © Hillbarn or their commissioned photographers. Collected for brand research and internal mock-up only. NOT cleared for public launch. Original files or written permission required from Hillbarn before go-live.",
+  "ai_generated_assets": 0,
+  "stock_assets": 0,
+  "quality_legend": {
+    "A": "usable in the mock at intended display size",
+    "B": "usable small, or as a correctly-cropped positioned placeholder",
+    "C": "reference / moodboard only — do not display"
+  },
+  "palette_verified": [
+    { "name": "Hillbarn Cream",  "hex": "#F3EFE4", "rgb": [243,239,228], "role": "primary background", "evidence": "71.7% of 2026 editorial poster ground", "confidence": "high" },
+    { "name": "Barn Ink",        "hex": "#221E15", "rgb": [34,30,21],   "role": "primary text",       "evidence": "headline ink, same poster",          "confidence": "high" },
+    { "name": "Hillbarn Copper", "hex": "#895A3C", "rgb": [137,90,60],  "role": "accent",             "evidence": "51.9% solid badge fill",             "confidence": "high" },
+    { "name": "Slate Roof",      "hex": "#293742", "rgb": [41,55,66],   "role": "architecture",       "evidence": "windmill roof sample",               "confidence": "high" },
+    { "name": "Tasting Teal",    "hex": "#2A5657", "rgb": [42,86,87],   "role": "events field",       "evidence": "flat ground, Tasting Room graphic",  "confidence": "high" },
+    { "name": "Schedule Navy",   "hex": "#0E4071", "rgb": [14,64,113],  "role": "legacy display ink", "evidence": "Jan-2025 schedule graphic",          "confidence": "medium" },
+    { "name": "Schedule Gold",   "hex": "#B18B42", "rgb": [177,139,66], "role": "legacy accent",      "evidence": "same graphic; JPEG-shifted",         "confidence": "low" }
+  ],
+  "assets": [
+    {
+      "filename": "hillbarn-wordmark-lockup-crop-470x120.jpg",
+      "path": "public/brand/logo/hillbarn-wordmark-lockup-crop-470x120.jpg",
+      "category": "logo", "type": "raster-crop", "dimensions": "470x120", "filesize_kb": 22,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "B",
+      "suggested_section": "logo reference",
+      "usage": "Best available reference for Mark A letterforms and tracking. Cream ink on wood.",
+      "notes": "Cropped from Hillbarn's own 960x1200 poster. NOT a usable production logo — opaque background, raster.",
+      "confidence": "high"
+    },
+    {
+      "filename": "hillbarn-cafe-logo-avatar-150.jpg",
+      "path": "public/brand/logo/hillbarn-cafe-logo-avatar-150.jpg",
+      "category": "logo", "type": "raster", "dimensions": "150x150", "filesize_kb": 2,
+      "source_url": "https://www.instagram.com/hillbarncaferestaurant/",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "colour reference",
+      "usage": "Full Mark A lockup on white. Source of copper subline sampling.",
+      "notes": "Too small to render. Instagram caps profile pictures at 150px when logged out.",
+      "confidence": "high"
+    },
+    {
+      "filename": "hillbarn-events-logo-avatar-150.jpg",
+      "path": "public/brand/logo/hillbarn-events-logo-avatar-150.jpg",
+      "category": "logo", "type": "raster", "dimensions": "150x150", "filesize_kb": 3,
+      "source_url": "https://www.instagram.com/hillbarn_tagaytay/",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "colour/shape reference",
+      "usage": "Mark B — windmill icon over HILLBARN / —TAGAYTAY—.",
+      "notes": "Too small to render. Corroborated by physical entrance signage.",
+      "confidence": "high"
+    },
+    {
+      "filename": "hillbarn-bestseller-badge-crop.jpg",
+      "path": "public/brand/logo/hillbarn-bestseller-badge-crop.jpg",
+      "category": "logo", "type": "raster-crop", "dimensions": "200x210", "filesize_kb": 12,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "component reference",
+      "usage": "Circular seal badge — spec source for the Badge component.",
+      "notes": "Copper #895A3C disc, 'BEST SELLER / 4 yrs / SINCE MAY 2022'.",
+      "confidence": "high"
+    },
+    {
+      "filename": "hero-aerial-windmill-golden-hour-2048x824.jpg",
+      "path": "public/brand/exterior/hero-aerial-windmill-golden-hour-2048x824.jpg",
+      "category": "exterior", "type": "photograph", "dimensions": "2048x824", "filesize_kb": 247,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "A-width / C-height",
+      "suggested_section": "homepage hero",
+      "usage": "PRIMARY HERO CANDIDATE. Drone, golden hour, windmill right-of-frame.",
+      "crop_notes": "Negative space upper-left is ideal for headline overlay. Wide enough for a 21:9 band; only 824px tall so cannot fill a 100vh desktop hero.",
+      "notes": "Carries Hillbarn's own script overlay — must be masked or the frame re-shot.",
+      "confidence": "high"
+    },
+    {
+      "filename": "windmill-facade-schedule-graphic-414.jpg",
+      "path": "public/brand/exterior/windmill-facade-schedule-graphic-414.jpg",
+      "category": "exterior", "type": "graphic-with-photo", "dimensions": "414x414", "filesize_kb": 34,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "visit / hours reference",
+      "usage": "Front elevation of the windmill. Source of Slate Roof #293742, Schedule Navy, Schedule Gold, and the published GPS coordinates 14.120137 N 120.936327 E.",
+      "notes": "Hours typography burned in; effectivity 13 Jan 2025. Also states closure every 1st Tuesday for general cleaning.",
+      "confidence": "high"
+    },
+    {
+      "filename": "barn-buildings-driveway-361x640.jpg",
+      "path": "public/brand/exterior/barn-buildings-driveway-361x640.jpg",
+      "category": "exterior", "type": "video-still", "dimensions": "361x640", "filesize_kb": 43,
+      "source_url": "https://www.instagram.com/hillbarn_tagaytay/",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "venue / about",
+      "usage": "Twin gambrel barn buildings and cobblestone drive. Vertical — suits mobile.",
+      "notes": "Reel cover with 'THE HILL BARN TAGAYTAY / PERFECT SETTING FOR YOUR WEDDING' burned in — also the source of the 'Hill Barn' two-word spelling inconsistency.",
+      "confidence": "high"
+    },
+    {
+      "filename": "entrance-signage-windmill-mark-640x426.jpg",
+      "path": "public/brand/venue/entrance-signage-windmill-mark-640x426.jpg",
+      "category": "venue", "type": "photograph", "dimensions": "640x426", "filesize_kb": 31,
+      "source_url": "https://www.instagram.com/hillbarn_tagaytay/",
+      "origin": "official", "transparency": false, "quality": "B",
+      "suggested_section": "about / visit",
+      "usage": "Dimensional cream letters on dark stained wood in a gambrel panel, with the windmill icon. Proves Mark B exists physically.",
+      "crop_notes": "Crop right two-thirds for a sign-only detail; keep full frame for lifestyle (a couple walks in shot).",
+      "confidence": "high"
+    },
+    {
+      "filename": "tasting-room-teal-graphic-512x640.jpg",
+      "path": "public/brand/venue/tasting-room-teal-graphic-512x640.jpg",
+      "category": "venue", "type": "graphic", "dimensions": "512x640", "filesize_kb": 56,
+      "source_url": "https://www.instagram.com/hillbarn_tagaytay/",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "events — business-model evidence",
+      "usage": "Source of Tasting Teal #2A5657. Documents 'The Tasting Room' event format.",
+      "notes": "Co-branded with Laurentino's Catering & Events, 17-18 May 2025 — primary evidence of the accredited-caterer model. Not a photographic asset.",
+      "confidence": "high"
+    },
+    {
+      "filename": "reception-hall-florals-festoon-513x640.jpg",
+      "path": "public/brand/weddings/reception-hall-florals-festoon-513x640.jpg",
+      "category": "weddings", "type": "photograph", "dimensions": "513x640", "filesize_kb": 89,
+      "source_url": "https://www.instagram.com/hillbarn_tagaytay/",
+      "origin": "official", "transparency": false, "quality": "B",
+      "suggested_section": "weddings hero / gallery",
+      "usage": "BEST EVENTS ASSET FOUND. Elevated view of a dressed reception: suspended coral-and-green florals, festoon lights, timber trusses, polished concrete, banquet tables, cane chairs, circular stage.",
+      "crop_notes": "Crop 16:9 from centre for a band; keep full height for a portrait card.",
+      "notes": "Too small at 513px for hero use — positioned placeholder only.",
+      "confidence": "high"
+    },
+    {
+      "filename": "porkchop-editorial-cream-poster-960x1200.jpg",
+      "path": "public/brand/food/porkchop-editorial-cream-poster-960x1200.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "960x1200", "filesize_kb": 89,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "A",
+      "suggested_section": "PRIMARY DESIGN REFERENCE",
+      "usage": "The 2026 editorial template. Source of Hillbarn Cream #F3EFE4 and Barn Ink #221E15.",
+      "notes": "Most important design document in the audit. Cream ground, Didone headline 'Four years. One favourite.', copper kicker, circular seal, italic caption, photo inset with cream margin.",
+      "confidence": "high"
+    },
+    {
+      "filename": "porkchop-overhead-wordmark-960x1200.jpg",
+      "path": "public/brand/food/porkchop-overhead-wordmark-960x1200.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "960x1200", "filesize_kb": 144,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "A",
+      "suggested_section": "logo + signature dish",
+      "usage": "Largest clean rendering of Mark A found. Overhead pork chop on dark wood with copper badge.",
+      "notes": "Source of the wordmark crop and of Hillbarn Copper #895A3C.",
+      "confidence": "high"
+    },
+    {
+      "filename": "porkchop-darkwood-poster-960x1200.jpg",
+      "path": "public/brand/food/porkchop-darkwood-poster-960x1200.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "960x1200", "filesize_kb": 134,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "A",
+      "suggested_section": "dining — dark band",
+      "usage": "Three-quarter pork chop on dark wood, cream serif reversed out.",
+      "notes": "Typography burned in.",
+      "confidence": "high"
+    },
+    {
+      "filename": "sausage-burger-414.jpg",
+      "path": "public/brand/food/sausage-burger-414.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "414x414", "filesize_kb": 25,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "menu card reference",
+      "usage": "Hand-held burger, cool green bokeh. Script logotype, 'Made from scratch. No fillers added.', macros footer.",
+      "notes": "The one cool-toned outlier in Hillbarn's otherwise warm grade.",
+      "confidence": "high"
+    },
+    {
+      "filename": "classic-burger-414.jpg",
+      "path": "public/brand/food/classic-burger-414.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "414x414", "filesize_kb": 25,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "menu card reference",
+      "usage": "Same template family — The Classic Burger.",
+      "confidence": "high"
+    },
+    {
+      "filename": "burger-graphic-b-414.jpg",
+      "path": "public/brand/food/burger-graphic-b-414.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "414x414", "filesize_kb": 24,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "reference",
+      "usage": "Template consistency evidence.",
+      "confidence": "medium"
+    },
+    {
+      "filename": "burger-graphic-d-414.jpg",
+      "path": "public/brand/food/burger-graphic-d-414.jpg",
+      "category": "food", "type": "graphic-with-photo", "dimensions": "414x414", "filesize_kb": 28,
+      "source_url": "https://www.facebook.com/hillbarncaferestaurant",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "reference",
+      "usage": "Template consistency evidence.",
+      "confidence": "medium"
+    },
+    {
+      "filename": "ig-cafe-02..13.jpg (12 files)",
+      "path": "public/brand/social-reference/",
+      "category": "social-reference", "type": "graphic-with-photo", "dimensions": "360x640 to 640x400", "filesize_kb": 504,
+      "source_url": "https://www.instagram.com/hillbarncaferestaurant/",
+      "origin": "official", "transparency": false, "quality": "C",
+      "suggested_section": "moodboard / template analysis",
+      "usage": "Evidence of the dark food-poster template: near-black ground, letterspaced caps kicker, large serif display, script second line, tiny centred caption footer. Includes Steak Fries, Steak Sandwich, BLT Sandwich.",
+      "notes": "Logged-out Instagram caps the grid at 12 posts. Do not use as site imagery.",
+      "confidence": "high"
+    }
+  ],
+  "missing_critical": [
+    { "item": "hillbarn-wordmark.svg (Mark A)", "priority": "critical", "blocks": "site header at retina" },
+    { "item": "hillbarn-events-lockup.svg (Mark B)", "priority": "critical", "blocks": "events section branding" },
+    { "item": "hillbarn-windmill-icon.svg", "priority": "high", "blocks": "favicon, app icon, section motif" },
+    { "item": "Transparent PNGs @2000px, light + dark", "priority": "high", "blocks": "logo over photography" },
+    { "item": "Windmill exterior, no overlay, >=4000px, vertical + 16:9", "priority": "critical", "blocks": "homepage hero" },
+    { "item": "Second-floor dining room interior", "priority": "critical", "blocks": "dining section — zero interior photos obtained" },
+    { "item": "Reception hall, empty and dressed", "priority": "critical", "blocks": "weddings page — only one events photo exists" },
+    { "item": "Clean plate photography, no typography", "priority": "critical", "blocks": "menu — every food asset has type burned in" },
+    { "item": "Ceremony setup", "priority": "high", "blocks": "weddings" },
+    { "item": "Flower gardens / plaza / accommodations", "priority": "high", "blocks": "venue — claimed by caterer, never photographed publicly" },
+    { "item": "Confirmed opening hours", "priority": "critical", "blocks": "visit page — three conflicting versions found" },
+    { "item": "Venue capacity, floor plan, package sheet and rates", "priority": "critical", "blocks": "events packages — all TBD" },
+    { "item": "Accredited caterer list", "priority": "high", "blocks": "events FAQ" }
+  ],
+  "do_not": [
+    "Redesign, redraw, trace or AI-generate either logo",
+    "Use stock barn or wedding photography",
+    "Upscale 414px social assets for hero use",
+    "Publish opening hours before confirmation",
+    "Attribute the PHP 228,000 caterer package or the expired PHP 88,000 (2021) promo to Hillbarn",
+    "Invent menu items, packages, prices, capacities or founding history",
+    "Name a typeface as Hillbarn's without a vector file as proof"
+  ]
+}

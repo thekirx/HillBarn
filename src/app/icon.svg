@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hillbarn">
+  <!-- Typographic stand-in, matching the wordmark placeholder used across the site.
+       Hillbarn's real mark is unavailable in vector form (see README) — replace this
+       file with the supplied logo before launch. -->
+  <rect width="64" height="64" fill="#221e15"/>
+  <g fill="#f3efe4">
+    <rect x="16" y="17" width="6" height="30"/>
+    <rect x="42" y="17" width="6" height="30"/>
+    <rect x="16" y="29" width="32" height="6"/>
+    <rect x="11" y="17" width="16" height="3"/>
+    <rect x="11" y="44" width="16" height="3"/>
+    <rect x="37" y="17" width="16" height="3"/>
+    <rect x="37" y="44" width="16" height="3"/>
+  </g>
+</svg>
